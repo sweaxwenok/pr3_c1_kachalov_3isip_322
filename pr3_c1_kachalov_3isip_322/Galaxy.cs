@@ -12,6 +12,7 @@ namespace ConsoleApp_FirstApp
             Console.ReadKey();
         }
 
+
         private static void IterateThroughList()
         {
             var theGalaxies = new List<Galaxy>
